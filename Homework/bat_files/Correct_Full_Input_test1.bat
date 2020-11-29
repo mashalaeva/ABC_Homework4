@@ -1,0 +1,1 @@
+ABC_OpenMP.exe files\input\test1.txt files\output\answer1.txt files\output_alphabet\alphabet1.txt

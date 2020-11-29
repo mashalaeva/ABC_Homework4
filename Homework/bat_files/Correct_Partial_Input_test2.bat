@@ -1,0 +1,1 @@
+ABC_OpenMP.exe test2.txt answer2.txt alphabet2.txt

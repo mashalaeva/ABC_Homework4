@@ -1,0 +1,1 @@
+ABC_OpenMP.exe test5.txt answer5.txt alphabet5.txt
